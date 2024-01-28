@@ -17,7 +17,7 @@ This Python script allows you to send emails with attachments to multiple recipi
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your_username/your_repository.git
+   git clone https://github.com/TUR14CUS/Email-Sender.git
    cd your_repository
    ```
 
