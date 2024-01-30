@@ -1,4 +1,4 @@
-**Email Sender with Attachment - README**
+**Email Sender with Attachment**
 
 This Python script allows you to send emails with attachments to multiple recipients using a CSV file as a data source. Below are the instructions and details for using the script:
 
